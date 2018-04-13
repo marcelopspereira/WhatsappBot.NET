@@ -1,0 +1,108 @@
+WhatsBot aktiviert
+19:08
+!search Haus
+19:08
+Suche wird vorbereitet...
+19:08
+WhatsBot aktiviert
+21:22
+!search Baum
+21:22
+Suche wird vorbereitet...
+21:22
+das habe ich gefunden
+21:22
+https://de.wikipedia.org/wiki/Baum
+21:22
+WhatsBot aktiviert
+21:34
+!sag hallo
+21:35
+hallo
+21:35
+!search Microsoft
+21:35
+Suche wird vorbereitet...
+21:35
+das habe ich gefunden
+21:35
+https://de.wikipedia.org/wiki/Microsoft
+21:35
+!search Tcibo
+21:36
+Suche wird vorbereitet...
+21:36
+das habe ich gefunden
+21:36
+https://www.wikipedia.org/
+21:36
+!search Tchibo
+21:37
+Suche wird vorbereitet...
+21:37
+das habe ich gefunden
+21:37
+https://de.wikipedia.org/wiki/Tchibo
+21:37
+!search Samsung
+21:47
+Suche wird vorbereitet...
+21:47
+das habe ich gefunden
+21:47
+https://de.wikipedia.org/wiki/Samsung
+21:47
+!search Swatch
+21:48
+Suche wird vorbereitet...
+21:48
+das habe ich gefunden
+21:48
+https://de.wikipedia.org/wiki/Swatch
+21:48
+!search Gravitation
+21:49
+Suche wird vorbereitet...
+21:49
+das habe ich gefunden
+21:49
+https://de.wikipedia.org/wiki/Gravitation
+21:49
+WhatsBot aktiviert
+16:34
+!kick
+16:47
+WhatsBot aktiviert
+16:51
+!sag sj
+16:51
+sj
+16:51
+!kick
+16:51
+WhatsBot aktiviert
+16:52
+!kick tom
+16:52
+kick wird vorbereitet...
+16:52
+WhatsBot aktiviert
+16:54
+!search t
+16:54
+Suche wird vorbereitet...
+16:54
+das habe ich gefunden
+16:54
+https://de.wikipedia.org/wiki/T
+16:54
+!kick asssas
+16:55
+kick wird vorbereitet...
+16:55
+!kick sdsd
+16:56
+kick wird vorbereitet...
+16:56
+!kick assa
+17:04
