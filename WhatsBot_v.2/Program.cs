@@ -13,7 +13,7 @@ namespace WhatsBot_v._2
 {
     class Program
     {
-        public static bool an = true;
+        public static bool on = true;
         static void Main(string[] args)
         {
             funktionen fkt = new funktionen();
@@ -30,10 +30,10 @@ namespace WhatsBot_v._2
 
             
             
-           //ACHTUNG
+           
             while (true)
             {
-                if (an)
+                if (on)
                 {
                     Thread.Sleep(500);
 

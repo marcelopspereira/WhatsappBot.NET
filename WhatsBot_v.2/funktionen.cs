@@ -156,7 +156,7 @@ namespace WhatsBot_v._2
                 
             }
 
-            // \r\n wegbekommen
+            
             File.WriteAllLines("tmp.txt", eingelesen);
             eingelesen = File.ReadAllLines("tmp.txt");
 
